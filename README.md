@@ -1,4 +1,8 @@
-# Hello tout le monde  :wave:
+
+
+
+
+# Hello tout le monde  :wave:  
 
 ## Développeur web junior PHP/Symfony 
 
@@ -7,6 +11,11 @@
 Après une formation de 6 mois  pour obtenir mon titre pro Développeur web et web mobile , j'ai décider de monter encore en niveau.
 
 Un petit aperçu de mes compètences avec un petit site conçu avec Symfony :trumpet:  dont voici le [lien](https://dev.lescure-fred.com/).
+
+
+<p align="center">
+ <img src="https://github.com/fred-86/fred-86/blob/main/t%C3%A9l%C3%A9chargement.png" alt="les joies du code"/>
+</p>
 
 
 
