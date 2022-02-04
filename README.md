@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hello tout le monde  :wave:
+
+## Développeur web junior PHP/Symfony 
+
+#### En cours de formation chez OpenClassrooms :  _DA javascript / React_  :muscle:
+
+Après une formation de 6 mois  pour obtenir mon titre pro Développeur web et web mobile , j'ai décider de monter encore en niveau.
+
+Un petit aperçu de mes compètences avec un petit site conçu avec Symfony :trumpet:  dont voici le [lien](https://dev.lescure-fred.com/).
+
+
+
+
+
+
 
 <!--
 **fred-86/fred-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
