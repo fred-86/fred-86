@@ -18,6 +18,10 @@ Un petit aperçu de mes compètences avec un petit site conçu avec Symfony :tru
 </p>
 
 
+## Author
+<img src="https://github.com/fred-86/fred-86/blob/main/fred-lescure.svg" />
+
+
 
 
 
